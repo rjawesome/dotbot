@@ -1,8 +1,15 @@
 # dotbot
 
-## How to use
+## How to use bot
 
-First create a Discord Bot and get the Bot Token. Then create a file called .env. In this file put
+Go into a Discord Server which the bot is in. Then send a message like this:
+```
+/dot something
+```
+
+## How to run bot
+
+First create a Discord Bot and get the Bot Token. Then create a file called .env. In this file put:
 
 ```
 TOKEN=YOUR_TOKEN_HERE
