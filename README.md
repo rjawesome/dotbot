@@ -1,5 +1,3 @@
-# CFBot
+# dotbot
 
-## Creators
-
-[Rohan Juneja](https://rohanj.dev/)
+By: [Rohan Juneja](https://rohanj.dev/)
